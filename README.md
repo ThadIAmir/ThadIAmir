@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThadIAmir
-- 👀 I’m interested in evey kind of coding
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in every kind of coding
+- 🌱 I’m currently learning python
 
 <!---
 ThadIAmir/ThadIAmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
